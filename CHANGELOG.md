@@ -3,6 +3,26 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.5.0] - 2019-10-19
+### Merged
+- Pull #72: Don't swallow the error code
+- Pull #74: Create README.md in use-cases
+- Pull #82: Update contribution guides of the workflow
+- Pull #80: add first timers guide for newcomers
+- Pull #65: Added "Code Review" section to CONTRIBUTING.md
+- Pull #83: Follow godoc deprecation standards
+- Pull #88: Add our Developer Experience Engineer career opportunity to the READM…
+- Pull #93: Add current Go versions to Travis
+- Special thanks for these PRs to:
+    - [Succo](//github.com/Succo)
+    - [ajloria](//github.com/ajloria)
+    - [radlinskii](//github.com/radlinskii)
+    - [daniloff200](//github.com/daniloff200)
+    - [aleien](//github.com/aleien)
+    - [vaskoz](//github.com/vaskoz)
+    - [mptap](//github.com/mptap)
+    - [gliptak](//github.com/gliptak)
+
 ## [2.4.1] - 2018-4-09
 ### Fixed
 - Pull #71, Solves #70
